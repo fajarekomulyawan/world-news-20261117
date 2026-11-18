@@ -22,15 +22,18 @@ and fields, each with a short factual caption taken from that day's reporting:
    attack on the Sheikh Isa base radar; no casualties reported.
 3. **Trump in Asia for the APEC summit** — in Shenzhen; a trilateral with Xi and Putin
    on peace and nuclear risks is set for 19 November.
-4. **Wall Street sells off** — Dow −849 points, S&P −1.0%; retail sales +0.2%; odds of
-   a December Fed rate hike reach ~95%.
-5. **Nvidia beats earnings** — the AI chip giant tops Q3 forecasts after the closing bell.
+4. **Wall Street sells off** — Dow −849 points, S&P −1.0%, about $1.3 trillion in value
+   wiped out; retail sales +0.2%; odds of a December Fed rate hike reach ~95%.
+5. **Nvidia beats earnings** — record $115.8B revenue in its first report since CEO
+   Jensen Huang's exit, plus a $150B buyback.
 6. **Japan scrambles jets** — Tokyo protests to Moscow after two suspected Russian
    aircraft breach its airspace.
 
-The footer adds three more of the day's stories: the UN's count of 1,390 civilians
-killed in Sudan's war this year, the UK and allies pressing Israel to open Gaza aid
-crossings, and five European states planning a Rwanda migrant-return hub.
+The footer adds four more of the day's stories: the UN's count of 1,390 civilians
+killed in Sudan's war this year, Bitcoin reclaiming $65,000 as $130M in shorts are
+liquidated, GTA VI passing $1.5B in revenue before launch, and Google's warning that
+hackers now attack with AI. Market-colour items were cross-checked against the day's
+posts by @unusual_whales and @WatcherGuru on X.
 
 ## License
 
