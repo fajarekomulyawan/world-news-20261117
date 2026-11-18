@@ -13,28 +13,34 @@ on every run.
 
 ## The image
 
-A front-page card for **Tuesday, 17 November 2026**, drawn as HTML/SVG and rendered to a
-single image. The six panels cover the day's most consequential stories across regions
-and fields, each with a short factual caption taken from that day's reporting:
+A full newspaper front page for **Tuesday, 17 November 2026** in a single
+1024×1024 picture — **46 stories, 6 continents, all from Tuesday** — drawn as
+HTML/SVG and rendered to one image. Thirteen illustrated stories lead the page:
 
-1. **Ukraine hits the Crimea Bridge again** — a second straight day of strikes halts
-   traffic on the Kerch Bridge; Russia says it downed 1,441 drones overnight.
-2. **Iran drones target a U.S. radar in Bahrain** — Bahrain says it intercepted the
-   attack on the Sheikh Isa base radar; no casualties reported.
-3. **Trump in Asia for the APEC summit** — in Shenzhen; a trilateral with Xi and Putin
-   on peace and nuclear risks is set for 19 November.
-4. **Wall Street sells off** — Dow −849 points, S&P −1.0%, about $1.3 trillion in value
-   wiped out; retail sales +0.2%; odds of a December Fed rate hike reach ~95%.
-5. **Nvidia beats earnings** — record $115.8B revenue in its first report since CEO
-   Jensen Huang's exit, plus a $150B buyback.
-6. **Japan scrambles jets** — Tokyo protests to Moscow after two suspected Russian
-   aircraft breach its airspace.
+1. **Ukraine says a Crimean Bridge road span fell into the sea** — second strike
+   in two days on the Kerch Strait crossing.
+2. **Iran sends drones at a US radar in Bahrain; US hits back** — Bahrain says
+   all were downed; US jets then strike Qeshm.
+3. **Trump holds his first Quad summit, in Manila** — the US, India, Japan and
+   Australia unveil critical-minerals deals.
+4. **Ebola cases in DR Congo top 11,000** (WHO) — more than doubled in three
+   months, about 5,400 dead.
+5. **COP31 divided over a fossil-fuel phase-out** — the Antalya talks end Friday.
+6. **US, Mexico and Bolivia lose measles-free status** (PAHO).
+7. **Nvidia's quarterly sales double to $115.8bn** — reported after a close that
+   saw the Dow fall 849 points.
+8. **Gaza truce at risk of collapse, UN is told** — 1.4m people face acute hunger.
+9. **Mongolia's president says he will resign** — denies a $25m bribe claim.
+10. **Serbia's student-led majority takes its seats** — 140 of 250 seats.
+11. **Bangladesh police tear-gas garment workers** — wage demand Tk 30,000.
+12. **Russian An-12 crash in Siberia kills all 19** — near Kemerovo.
+13. **Mozambique puts opposition leader on trial** — 5 charges, Maputo.
 
-The footer adds four more of the day's stories: the UN's count of 1,390 civilians
-killed in Sudan's war this year, Bitcoin reclaiming $65,000 as $130M in shorts are
-liquidated, GTA VI passing $1.5B in revenue before launch, and Google's warning that
-hackers now attack with AI. Market-colour items were cross-checked against the day's
-posts by @unusual_whales and @WatcherGuru on X.
+A dotted world map ("Where it happened") pins the thirteen stories, and an
+"Also on Tuesday" index adds 33 more of the day's stories in one line each —
+from Prague's train collision and France's public-sector strike to Bitcoin
+reclaiming $65,000, GTA VI's $1.5bn pre-launch revenue, and Google's warning
+that hackers now attack with AI. Claims by officials are reported as claims.
 
 ## License
 
